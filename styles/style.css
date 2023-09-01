@@ -23,7 +23,7 @@ body {
   
   .image-interior {
     margin-top: 30px;
-    background-image: url(/resources/image-interior.png);
+    background-image: url(metrica/resources/image-interior.png);
     width: 1150px;
     height: 500px;
   }
